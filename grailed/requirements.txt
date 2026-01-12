@@ -20,7 +20,7 @@ Pympler==0.8
 python-dotenv==0.10.3
 pytz==2019.3
 redis==3.3.11
-requests==2.22.0
+requests==2.32.4
 selenium==3.141.0
 six==1.13.0
 soupsieve==1.9.5
